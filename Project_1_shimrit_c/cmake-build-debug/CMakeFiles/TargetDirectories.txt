@@ -1,0 +1,3 @@
+/home/nitzan/CLionProjects/Project_1_shimrit_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nitzan/CLionProjects/Project_1_shimrit_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nitzan/CLionProjects/Project_1_shimrit_c/cmake-build-debug/CMakeFiles/Project_1_shimrit_c.dir
